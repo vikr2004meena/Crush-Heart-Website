@@ -10,7 +10,7 @@
 html {
     overflow: hidden;
     height: 100%;
-    background: linear-gradient(rgb(255 255 255 / 77%), rgb(255 4 215 / 84%)), url(../images/background.jpg);
+    background: linear-gradient(rgb(255 255 255 / 77%), rgb(255 4 131 / 84%)), url(../images/background.jpg);
 }
 
 .icon-love {
@@ -230,4 +230,54 @@ body {
     }
 
 /*---------------------- footer -------------------------*/
+@media (min-width: 250px) and (max-width: 550px) {
+    .body_left {
+        width: 272px;
+        height: 223px;
+        left: 10px;
+        bottom: 42px;
+        position: absolute;
+        z-index: 98;
+    }
 
+    .body_left img {
+        height: 210px;
+    }
+
+    .container .love {
+        width: 485px;
+        height: 395px;
+        left: 44%;
+        top: 40%;
+        position: absolute;
+        margin: -127px 0 0 -220px;
+        transform: scale(.6);
+        /* background-color: gray; */
+        z-index: 99;
+    }
+
+   .title {
+    color: rgb(238, 255, 255);
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: 800;
+    letter-spacing: 11px;
+    margin-top: -72px !important;
+    text-transform: uppercase;
+}
+
+.footer {
+    bottom: 88px;
+    /* border-bottom: 9px solid #fff; */
+    position: relative;
+    z-index: 99;
+}
+
+#copy {
+    position: fixed;
+    bottom: 12px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: .7rem;
+}
+}
