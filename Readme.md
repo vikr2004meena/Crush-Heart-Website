@@ -1,7 +1,7 @@
 # 💞 Crush Heart Website (I Love You Edition)  
 *A website where a GIF points to a heart made of your crush’s pics – because code speaks louder than words.*   
 
-![Demo](./images/demo.gif)  
+![Demo](./images/iou4.png)  
 
 ---
 
