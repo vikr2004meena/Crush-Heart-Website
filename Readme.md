@@ -1,7 +1,5 @@
 # 💞 Crush Heart Website (I Love You Edition)  
-*A website where a GIF points to a heart made of your crush’s pics – because code speaks louder than words.*  
-
-![Demo](your-demo-gif-link.gif)  
+*A website where a GIF points to a heart made of your crush’s pics – because code speaks louder than words.*   
 
 ---
 
@@ -15,7 +13,7 @@
 ## 🛠️ **Installation**  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/your-username/crush-heart-website.git  
+   git clone https://github.com/Aoudumber-Bade/Crush-Heart-Website.git
 
 2. Replace /images with your crush’s pics (keep filenames consistent!).
 
@@ -49,7 +47,7 @@ Coded with ❤️ by Aoudumber Bade
 PS: Tag me if your crush says yes!
 
 🚀 Star if you’d code this for someone!
-🔗 Live Demo: 
+🔗 Live Demo: [crush-heart.netlify.app](https://crush-heart.netlify.app/)
 
 Why This Project?
 Coders: Learn DOM manipulation and dynamic image rendering.
