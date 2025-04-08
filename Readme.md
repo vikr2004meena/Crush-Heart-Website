@@ -71,4 +71,4 @@ PS: Tag me if your crush says yes!
 - **Lovers:** Upgrade from boring text messages.
 - **Gen Z:** Flex your "I code and date" era.
 
-*(Disclaimer: No hearts were broken in the making of this repo.) 🫶*
+*(Disclaimer: No hearts were broken in the making of this repo.) 🫶,
